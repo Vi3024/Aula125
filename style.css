@@ -1,0 +1,28 @@
+body{
+    background-image: radial-gradient(skyblue, deepskyblue, dodgerblue)
+}
+
+.header {
+    background-color: rgb(0, 255, 255);
+    color: black;
+    width: 100%;
+    margin: 0;
+    box-shadow: 0px 5px 30px gray;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.note{
+    font-size: 18px;
+}
+
+.rodape{
+    bottom: 0px;
+    position: fixed;
+    background-color: aquamarine;
+    width: 100%;
+    margin: 0;
+    box-shadow: 0px -5px 30px gray;
+    padding: 20px;
+    font-size: 25px;
+}
